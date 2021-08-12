@@ -18,6 +18,8 @@
     <option value="22000">USD</option>
     <option value="210">JPY</option>
     <option value="26770">Euro</option>
+    <option value="20">Won</option>
+    <option value="820">Tệ</option>
   </select>
   <button type="submit">Convert</button>
 </form>
